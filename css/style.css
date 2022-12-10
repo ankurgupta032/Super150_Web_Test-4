@@ -9,6 +9,12 @@
     display: flex;
     background-image: linear-gradient(to right, rgb(182, 173, 128) , rgb(205, 194, 79))
   }
+  .remain{
+    margin: 30px;
+    margin-left: 600px;
+    font-size: 5vh;
+  }
+  
   #time{
     color: black;
     font-size: 40px;
